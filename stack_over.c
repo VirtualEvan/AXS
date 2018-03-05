@@ -7,7 +7,7 @@ main(){
 int confirm(){
    char buf[500];
     
-   printf("Sure? [y/N]: ");
+   printf("Sure? [y/N]: %p", &buf);
    gets(buf);
    return strcmp(tolower(buf),"y");
 }
