@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Linux/x86 - exit(1)
+#Ejecuta una salida exitosa
 #7 bytes
 echo -ne "\x31\xc0\x40\x89\xc3\xcd\x80"
 
