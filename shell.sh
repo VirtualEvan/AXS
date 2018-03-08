@@ -1,6 +1,7 @@
 #!/bin/bash
 #NOT WORKING
 #Linux/x86 - /bin/sh - 8 bytes
+#Ejecuta un comano
 #8 bytes
 echo -ne "\x99\x6a\x0b\x58\x60\x59\xcd\x80"
 
